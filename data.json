@@ -1,0 +1,152 @@
+[
+  {
+    "Brand": 1,
+    "ProductName": "Wii Sports",
+    "GraphicName": "nintendoimg1.png",
+    "CostPrice": 11.99,
+    "MSRP": 11.99,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 0,
+    "Description": "Wii Sports is a 2006 sports simulation video game developed and published by Nintendo for the Wii video game console."
+  },
+  {
+    "Brand": 1,
+    "ProductName": "Mario Kart Wii",
+    "GraphicName": "nintendoimg2.png",
+    "CostPrice": 11.99,
+    "MSRP": 11.99,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 0,
+    "Description": "Mario Kart Wii is a multiplayer-oriented racing game from the Mario Kart series for the Wii, developed by Nintendo EAD."
+  },
+  {
+    "Brand": 1,
+    "ProductName": "Duck Hunt",
+    "GraphicName": "nintendoimg3.png",
+    "CostPrice": 10.99,
+    "MSRP": 10.99,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 0,
+    "Description": "Duck Hunt is a 1984 light gun shooter video game developed and published by Nintendo for the Nintendo Entertainment System (NES) video game console and the Nintendo Vs. System arcade hardware."
+  },
+  {
+    "Brand": 1,
+    "ProductName": "Animal Crossing: Wild World",
+    "GraphicName": "nintendoimg4.png",
+    "CostPrice": 14.99,
+    "MSRP": 14.99,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 0,
+    "Description": "Animal Crossing: Wild World is a 2005 social simulation video game developed and published by Nintendo for the Nintendo DS handheld game console."
+  },
+  {
+    "Brand": 1,
+    "ProductName": "Super Mario 64",
+    "GraphicName": "nintendoimg5.png",
+    "CostPrice": 5.49,
+    "MSRP": 5.49,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 0,
+    "Description": "Super Mario 64 is a platform game developed and published by Nintendo for the Nintendo 64. It was released in Japan and North America in 1996 and PAL regions in 1997."
+  },
+  {
+    "Brand": 2,
+    "ProductName": "Gears of War 2",
+    "GraphicName": "microsoftimg.png",
+    "CostPrice": 12.48,
+    "MSRP": 2.48,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 0,
+    "Description": "Gears of War 2 is a third-person shooter video game developed by Epic Games and published by Microsoft Game Studios for the Xbox 360."
+  },
+  {
+    "Brand": 2,
+    "ProductName": "Halo: Combat Evolved",
+    "GraphicName": "microsoftimg2.png",
+    "CostPrice": 2.99,
+    "MSRP": 2.99,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 0,
+    "Description": "Halo: Combat Evolved is a 2001 first-person shooter video game developed by Bungie and published by Microsoft Game Studios for the Xbox."
+  },
+  {
+    "Brand": 2,
+    "ProductName": "Halo 3: ODST",
+    "GraphicName": "microsoftimg4.png",
+    "CostPrice": 4.27,
+    "MSRP": 14.27,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 0,
+    "Description": "Halo 3: ODST is a 2009 first-person shooter game developed by Bungie and published by Microsoft Game Studios. The fourth installment in the Halo franchise as a side game."
+  },
+  {
+    "Brand": 2,
+    "ProductName": "Halo: Reach",
+    "GraphicName": "microsoftimg4.png",
+    "CostPrice": 4.68,
+    "MSRP": 4.68,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 0,
+    "Description": "Halo: Reach is a 2010 first-person shooter video game developed by Bungie and published by Microsoft Game Studios, originally for the Xbox 360."
+  },
+  {
+    "Brand": 2,
+    "ProductName": "Halo 4",
+    "GraphicName": "microsoftimg5.png",
+    "CostPrice": 4.68,
+    "MSRP": 4.68,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 0,
+    "Description": "Halo 4 is a 2012 first-person shooter video game developed by 343 Industries and published by Microsoft Studios for the Xbox 360 video game console."
+  },
+  {
+    "Brand": 3,
+    "ProductName": "Call of Duty: Modern Warfare 3",
+    "GraphicName": "activision1.png",
+    "CostPrice": 6.98,
+    "MSRP": 6.98,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 0,
+    "Description": "Modern Warfare 3 delivers a multiplayer experience that continues to raise the bar by focusing on fast-paced, gun-on-gun combat."
+  },
+  {
+    "Brand": 3,
+    "ProductName": "Call of Duty: Black Ops 3",
+    "GraphicName": "activision2.png",
+    "CostPrice": 384.0,
+    "MSRP": 384.99,
+    "QtyOnHand": 5,
+    "QtyOnBackOrder": 0,
+    "Description": "Welcome to 2065. A new breed of Black Ops soldier emerges and the lines are blurred between our own humanity and the cutting-edge military robotics."
+  },
+  {
+    "Brand": 3,
+    "ProductName": "Call of Duty: Black Ops II",
+    "GraphicName": "activision3.png",
+    "CostPrice": 175.99,
+    "MSRP": 175.99,
+    "QtyOnHand": 3,
+    "QtyOnBackOrder": 0,
+    "Description": "Pushing the boundaries of what fans have come to expect from the record-setting entertainment franchise."
+  },
+  {
+    "Brand": 3,
+    "ProductName": "Call of Duty: Advanced Warfare",
+    "GraphicName": "activision4.png",
+    "CostPrice": 274.99,
+    "MSRP": 4274.99,
+    "QtyOnHand": 5,
+    "QtyOnBackOrder": 0,
+    "Description": "A NEW ERA OF COMBAT. Call of Duty: Advanced Warfare envisions the powerful battlegrounds of the future."
+  },
+  {
+    "Brand": 3,
+    "ProductName": "Call of Duty: World at War",
+    "GraphicName": "activision5.png",
+    "CostPrice": 100.99,
+    "MSRP": 100.99,
+    "QtyOnHand": 5,
+    "QtyOnBackOrder": 0,
+    "Description": "Call of Duty: World at War is a 2008 first-person shooter game developed by Treyarch and published by Activision."
+  }
+]
